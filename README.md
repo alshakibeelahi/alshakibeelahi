@@ -33,7 +33,6 @@
                     <li>ASP.NET MVC</li>
                     <li>HTML5</li>
                     <li>JavaScript</li>
-                    <li>AJAX</li>
                 </ul>
             </td>
             <td>
@@ -46,9 +45,10 @@
             <td>
                 <ul class="list-unstyled tick-mark">
                     <li>Git</li>
-                    <li>MsSQL</li>
+                    <li>MS SQL</li>
+                    <li>MySQL</li>
                     <li>Oracle</li>
-                    <li>PostgresSQL</li>
+                    <li>PostgreSQL</li>
                     <li>C++</li>
                     <li>C#</li>
                     <li>Java</li>
