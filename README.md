@@ -19,26 +19,47 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="rj.shakib.1004" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cs/" target="_blank"
-    rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript" width="40" height="40" /> </a> <a href="https://www.mathworks.com/" target="_blank"
-    rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab"
-      width="40" height="40" /> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle"
-      width="40" height="40" /> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40"
-      height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-      width="40" height="40" /> </a>
-</p>
+<h3 align="left">Skills:</h3>
+<table>
+        <tr>
+            <th>Frontend</th>
+            <th>Backend</th>
+            <th>Others</th>
+        </tr>
+        <tr>
+            <td>
+                <ul class="list-unstyled tick-mark">
+                    <li>Next.js</li>
+                    <li>ASP.NET MVC</li>
+                    <li>HTML5</li>
+                    <li>JavaScript</li>
+                    <li>AJAX</li>
+                </ul>
+            </td>
+            <td>
+                <ul class="list-unstyled tick-mark">
+                    <li>Node.js</li>
+                    <li>NestJs</li>
+                    <li>ASP.Net Web API</li>
+                </ul>
+            </td>
+            <td>
+                <ul class="list-unstyled tick-mark">
+                    <li>Git</li>
+                    <li>MsSQL</li>
+                    <li>Oracle</li>
+                    <li>PostgresSQL</li>
+                    <li>C++</li>
+                    <li>C#</li>
+                    <li>Java</li>
+                    <li>PHP</li>
+                    <li>Python</li>
+                    <li>SOLID Design Principal</li>
+                    <li>Problem Solving</li>
+                </ul>
+            </td>
+        </tr>
+    </table>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alshakibeelahi&"
     alt="alshakibeelahi" /></p>
 <p><img align="left"
