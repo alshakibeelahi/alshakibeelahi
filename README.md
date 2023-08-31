@@ -37,7 +37,6 @@
             </td>
             <td>
                 <ul class="list-unstyled tick-mark">
-                    <li>Node.js</li>
                     <li>NestJs</li>
                     <li>ASP.Net Web API</li>
                 </ul>
