@@ -24,30 +24,37 @@
         <tr>
             <th>Frontend</th>
             <th>Backend</th>
+            <th>Database</th>
             <th>Others</th>
         </tr>
         <tr>
             <td>
                 <ul class="list-unstyled tick-mark">
                     <li>Next.js</li>
+                    <li>Vite</li>
                     <li>ASP.NET MVC</li>
-                    <li>HTML5</li>
-                    <li>JavaScript</li>
+                    <li>React</li>
                 </ul>
             </td>
             <td>
                 <ul class="list-unstyled tick-mark">
+                    <li>Express.js</li>
                     <li>NestJs</li>
                     <li>ASP.Net Web API</li>
                 </ul>
             </td>
             <td>
                 <ul class="list-unstyled tick-mark">
-                    <li>Git</li>
+                    <li>PostgreSQL</li>
+                    <li>MongoDB</li>
                     <li>MS SQL</li>
                     <li>MySQL</li>
                     <li>Oracle</li>
-                    <li>PostgreSQL</li>
+                </ul>
+            </td>
+            <td>
+                <ul class="list-unstyled tick-mark">
+                    <li>Git</li>
                     <li>C++</li>
                     <li>C#</li>
                     <li>Java</li>
