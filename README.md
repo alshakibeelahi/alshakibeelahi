@@ -31,9 +31,8 @@
             <td>
                 <ul class="list-unstyled tick-mark">
                     <li>Next.js</li>
-                    <li>Vite</li>
-                    <li>ASP.NET MVC</li>
                     <li>React</li>
+                    <li>ASP.NET MVC</li>
                 </ul>
             </td>
             <td>
