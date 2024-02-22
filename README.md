@@ -1,25 +1,28 @@
-<h1 align="center">Hi 👋, I'm AL SHAKIB E ELAHI</h1>
-<h3 align="center">An Engineering student passionate to learn new technologies to Rule</h3>
-<img align="right" alt="Coding" width="400"
-  src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
+<img src="images/computer-illustration.png" min-width="400px" max-width="450px" width="400px" align="right" alt="Computador">
+<h1 align="left">Hi, <img src="https://github.com/EvanderInacio/EvanderInacio/blob/main/images/Earth.gif?raw=true" width="30"> I'm Al Shakib E ELahi
+ <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30"></h1>
 
-[![Website](https://img.shields.io/website?label=alshakibeelahi&style=for-the-badge&url=https%3A%2F%2Falshakibeelahi.github.io)](https://alshakibeelahi.github.io)
 <p align="left"> <img
     src="https://komarev.com/ghpvc/?username=alshakibeelahi&label=Profile%20views&color=0e75b6&style=flat"
     alt="alshakibeelahi" /> </p>
+    
+[![Website](https://img.shields.io/website?label=alshakibeelahi&style=for-the-badge&url=https%3A%2F%2Falshakibeelahi.github.io)](https://alshakibeelahi.github.io)
 
-- 📫 How to reach me **alshakibeelahi@gmail.com**
+<br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/al-shakib-e-elahi-3a8931211" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="al-shakib-e-elahi-3a8931211" height="30" width="40" /></a>
-  <a href="https://fb.com/rj.shakib.1004" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="rj.shakib.1004" height="30" width="40" /></a>
-</p>
-<h3 align="left">Skills:</h3>
+ ## &nbsp; <img src="images/oculos.gif " width="30" align="center"> &nbsp;About me
+
+- 💻 I'm a Software Engineer
+
+- 🚀 My portfolio **[ alshakibeelahi.github.io](https://alshakibeelahi.github.io/)**
+ 
+- 👨‍🎓 I'm graduated in **Computer Science and Engineering**
+
+- 📫 If you want to send a message  **alshakibeelahi@gmail.com**
+
+<br>
+
+## <img src="images/gato.gif" width="50" align="center"> &nbsp;Tech Stack
 <table>
         <tr>
             <th>Frontend</th>
@@ -65,8 +68,26 @@
             </td>
         </tr>
     </table>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alshakibeelahi&"
-    alt="alshakibeelahi" /></p>
-<p><img align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=alshakibeelahi&show_icons=true&locale=en&layout=compact"
-    alt="alshakibeelahi" /></p>
+    
+<br>
+
+## 👨🏻‍💼 &nbsp;Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/al-shakib-e-elahi-3a8931211" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="al-shakib-e-elahi-3a8931211" height="30" width="40" /></a>
+  <a href="https://fb.com/rj.shakib.1004" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+      alt="rj.shakib.1004" height="30" width="40" /></a>
+</p>
+
+
+<br>
+
+## <img src="images/gato_astronauta.gif" width="50" height="50" align="10">  &nbsp;GitHub Analytics
+
+<div align="center">
+<img height='180em' src="https://github-readme-stats.vercel.app/api?username=alshakibeelahi&show_icons=true=anuraghazra&show_icons=true&theme=aura" alt="elahi stats"/>
+<img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=alshakibeelahi&layout=compact&theme=aura" alt="elahi stats"/>
+ </div>
