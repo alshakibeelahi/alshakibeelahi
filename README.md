@@ -77,9 +77,9 @@
   <a href="https://linkedin.com/in/al-shakib-e-elahi-3a8931211" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="al-shakib-e-elahi-3a8931211" height="30" width="40" /></a>
-  <a href="https://fb.com/rj.shakib.1004" target="blank"><img align="center"
+  <a href="https://www.facebook.com/alshakibeelahirion/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="rj.shakib.1004" height="30" width="40" /></a>
+      alt="alshakibeelahirion" height="30" width="40" /></a>
 </p>
 
 
