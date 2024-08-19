@@ -23,53 +23,60 @@
 <br>
 
 ## <img src="images/gato.gif" width="50" align="center"> &nbsp;Tech Stack
+
 <table>
-        <tr>
-            <th>Frontend</th>
-            <th>Backend</th>
-            <th>Database</th>
-            <th>Others</th>
-        </tr>
-        <tr>
-            <td>
-                <ul class="list-unstyled tick-mark">
-                    <li>Next.js</li>
-                    <li>React</li>
-                    <li>ASP.NET MVC</li>
-                </ul>
-            </td>
-            <td>
-                <ul class="list-unstyled tick-mark">
-                    <li>Express.js</li>
-                    <li>NestJs</li>
-                    <li>ASP.Net Web API</li>
-                </ul>
-            </td>
-            <td>
-                <ul class="list-unstyled tick-mark">
-                    <li>PostgreSQL</li>
-                    <li>MongoDB</li>
-                    <li>MS SQL</li>
-                    <li>MySQL</li>
-                    <li>Oracle</li>
-                </ul>
-            </td>
-            <td>
-                <ul class="list-unstyled tick-mark">
-                    <li>Git</li>
-                    <li>C++</li>
-                    <li>C#</li>
-                    <li>Java</li>
-                    <li>PHP</li>
-                    <li>Python</li>
-                    <li>SOLID Design Principal</li>
-                    <li>Problem Solving</li>
-                </ul>
-            </td>
-        </tr>
-    </table>
-    
+    <tr>
+        <th>Frontend</th>
+        <th>Backend</th>
+        <th>Database</th>
+        <th>Programming Languages</th>
+        <th>Tools & Concepts</th>
+    </tr>
+    <tr>
+        <td>
+            <ul class="list-unstyled tick-mark">
+                <li>Next.js</li>
+                <li>React</li>
+                <li>ASP.NET MVC</li>
+            </ul>
+        </td>
+        <td>
+            <ul class="list-unstyled tick-mark">
+                <li>Express.js</li>
+                <li>NestJs</li>
+                <li>ASP.Net Web API</li>
+            </ul>
+        </td>
+        <td>
+            <ul class="list-unstyled tick-mark">
+                <li>PostgreSQL</li>
+                <li>MongoDB</li>
+                <li>MS SQL</li>
+                <li>MySQL</li>
+                <li>Oracle</li>
+            </ul>
+        </td>
+        <td>
+            <ul class="list-unstyled tick-mark">
+                <li>C++</li>
+                <li>C#</li>
+                <li>Java</li>
+                <li>PHP</li>
+                <li>Python</li>
+            </ul>
+        </td>
+        <td>
+            <ul class="list-unstyled tick-mark">
+                <li>Git</li>
+                <li>SOLID Design Principles</li>
+                <li>Problem Solving</li>
+                <li>RTK Query</li>
+            </ul>
+        </td>
+    </tr>
+</table>
 <br>
+
 
 ## 👨🏻‍💼 &nbsp;Connect with Me
 
@@ -91,3 +98,8 @@
 <img height='180em' src="https://github-readme-stats.vercel.app/api?username=alshakibeelahi&show_icons=true=anuraghazra&show_icons=true&theme=aura" alt="elahi stats"/>
 <img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=alshakibeelahi&layout=compact&theme=aura" alt="elahi stats"/>
  </div>
+
+## 🌟 GitHub Contribution Graph
+
+[![Al Shakib's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alshakibeelahi&theme=react-dark)](https://github.com/alshakibeelahi)
+
