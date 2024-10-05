@@ -6,7 +6,7 @@
     src="https://komarev.com/ghpvc/?username=alshakibeelahi&label=Profile%20views&color=0e75b6&style=flat"
     alt="alshakibeelahi" /> </p>
     
-[![Website](https://img.shields.io/website?label=alshakibeelahi&style=for-the-badge&url=https%3A%2F%2Falshakibeelahi.github.io)](https://alshakibeelahi.github.io)
+[![Website](https://img.shields.io/website?label=alshakibeelahi&style=for-the-badge&url=https%3A%2F%2Falshakibeelahi.netlify.app)](https://alshakibeelahi.netlify.app)
 
 <br>
 
@@ -14,7 +14,7 @@
 
 - 💻 I'm a Software Engineer
 
-- 🚀 My portfolio **[ alshakibeelahi.github.io](https://alshakibeelahi.github.io/)**
+- 🚀 My portfolio **[ alshakibeelahi.netlify.app](https://alshakibeelahi.netlify.app/)**
  
 - 👨‍🎓 I'm graduated in **Computer Science and Engineering**
 
