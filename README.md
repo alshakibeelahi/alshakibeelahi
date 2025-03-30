@@ -16,7 +16,7 @@
 
 - 🚀 My portfolio **[ alshakibeelahi.netlify.app](https://alshakibeelahi.netlify.app/)**
  
-- 👨‍🎓 I'm graduated in **Computer Science and Engineering**
+- 👨‍🎓 I have graduated in **Computer Science and Engineering**
 
 - 📫 If you want to send a message  **alshakibeelahi@gmail.com**
 
