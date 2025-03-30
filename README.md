@@ -18,7 +18,7 @@
  
 - 👨‍🎓 I have graduated in **Computer Science and Engineering**
 
-- 📫 If you want to send a message  **alshakibeelahi@gmail.com**
+- 📫 If you want to send a message: **alshakibeelahi@gmail.com**
 
 <br>
 
